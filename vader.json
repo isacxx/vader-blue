@@ -1,7 +1,7 @@
 {
   "name": "Isaac V1",
   "description": "A custom theme, edited from Vader.",
-  "color": "##034d8f",
+  "color": "#034d8f",
   "authors": [
     {
       "name": "isaac",
@@ -22,7 +22,7 @@
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "##034d8f",
+      "#034d8f",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
@@ -58,7 +58,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "##034d8f",
+      "#034d8f",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
