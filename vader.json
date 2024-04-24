@@ -114,8 +114,8 @@
       "#FFFFFF"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#111111",
-      "#FFFFFF"
+      "#103b6e",
+      "#127dff"
     ],
     "CHAT_BACKGROUND": [
       "#0d0c0c",
@@ -123,7 +123,7 @@
     ],
     "CHANNELS_DEFAULT": [
       "#c8c8c8",
-      "#FFFFFF"
+      "#215cdb"
     ],
     "CARD_PRIMARY_BG": [
       "#000000"
